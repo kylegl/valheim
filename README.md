@@ -4,4 +4,6 @@
 
 This will fill kilns, furnaces, whatever. 
 
-Download [AutoHotKey](https://www.autohotkey.com/download/)
+Download [AutoHotKey](https://www.autohotkey.com/download/ "AutoHotKey download page")
+
+
