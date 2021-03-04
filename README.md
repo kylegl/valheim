@@ -20,7 +20,7 @@ In the run program, type
 
 `shell:startup`
 
-and hit enter. Move the file into this folder. 
+and hit enter. The startup folder will open. Move the script file into this folder. 
 
 If you want to start it manually, double click the file to start it. To stop the script open your taskbar tray, right click on the autoHotKey icon and select 'exit'.
 
