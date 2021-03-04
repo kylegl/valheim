@@ -13,7 +13,7 @@ Download the [script](https://github.com/linkdevk/valheim/archive/main.zip "Late
 
 You can have the script start running on startup.
 
-Hit the windows key and type run. Click on the run program.
+Hit the windows key and type run. Click on the **run** program.
 
 In the run program, type 
 
@@ -21,5 +21,5 @@ In the run program, type
 
 and hit enter. The startup folder will open. Move the script file into this folder. 
 
-If you want to start it manually, double click the file to start it. To stop the script open your taskbar tray, right click on the autoHotKey icon and select 'exit'.
+If you want to start it manually, double click the file to start it. To stop the script open your taskbar tray, right click on the autoHotKey icon and select exit.
 
