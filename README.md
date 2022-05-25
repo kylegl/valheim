@@ -3,7 +3,7 @@
 
 ## Auto fill hot key!
 
-Tired of hitting e a million times? This shortcut will auto fill kilns, furnaces, whatever. The script is only active when the game window is open. 
+Tired of smashing E a million times? This shortcut will auto fill kilns, furnaces, whatever. The script is only active when the game window is open. 
 
 The shortcut is: **ALT E**
 
